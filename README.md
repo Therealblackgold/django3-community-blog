@@ -1,2 +1,2 @@
 # django3-community-blog
-# this a multiple user blog built with django python,html,css and JS.
+# this is a multiple user blog built with the python django framework,html,css and JS.
